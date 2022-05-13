@@ -1,7 +1,7 @@
 # Newsletter_rotrou_2022
 
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/donovanwillot/newsletter_rotrou_2022/blob/main/newsletter_2022_rotrou.pdf) 
 
 ## Ce que la newsletter permet
 
